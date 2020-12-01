@@ -23,7 +23,7 @@ R: Sim
 
 Existe alguma diferença entre carga em série e carga paralela do ponto de vista do tempo?
 
-R: Sim, mas não é significanetemente representativa
+R: Sim, o carregamento em paralelo requer maior capacidade e por esta razão, tempo maior.
 
 Existe alguma diferença entre carga em série e carga paralela do ponto de vista da qualidade da carga?
 
