@@ -21,15 +21,15 @@ Posso utilizar para carregar apenas uma célula/bateria?
 
 R: Sim
 
-Existe alguma diferença entre carga em série e carga paralela do ponto de vista do tempo?
+1) Existe alguma diferença entre carga em série e carga paralela do ponto de vista do tempo?
 
 R: Sim, o carregamento em paralelo requer maior capacidade e por esta razão, tempo maior.
 
-Existe alguma diferença entre carga em série e carga paralela do ponto de vista da qualidade da carga?
+2) Existe alguma diferença entre carga em série e carga paralela do ponto de vista da qualidade da carga?
 
 R: Não
 
-Existe alguma diferença entre carga em série e carga paralela do ponto de vista da qualidade da vida útil da bateria?
+3) Existe alguma diferença entre carga em série e carga paralela do ponto de vista da qualidade da vida útil da bateria?
 
 R: Não
 
